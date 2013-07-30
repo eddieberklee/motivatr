@@ -1,0 +1,19 @@
+Post updates about what you're doing. 
+
+App parses what subject you're posting a status about and shows you similar statuses from other people and you can choose to follow them. 
+
+Will motivate you to work harder by showing all the things people like you are doing. 
+
+This would also be interesting for classes if you saw the work your classmates were doing and thus motivate you to catch up or excel. 
+
+
+
+The first implementation can be very simple.
+Just have goals that anyone can create, but while you're trying to create a goal it gives you suggestions from the database. (like Stackoverflow with questions) and then you can add any public goal to your own goals.
+Within a goal, you have a group-decided metric. So whether it's a yes-or-no or how-many, (checkmark vs count) you have a sort of common metric that you can post about every day and you see other people's posts and can comment on it. Gives you motivation through what other people are doing.
+
+
+Streaks are one of the strongest motivators.
+Every time you don't feel like doing something, just check out how hard other people are working.
+
+
